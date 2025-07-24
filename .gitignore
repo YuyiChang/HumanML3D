@@ -1,0 +1,10 @@
+*.zip
+pose_data/*
+amass_data/*
+body_models/*
+__pycache__/
+*.py[codz]
+*$py.class
+staging-data
+joints/*
+HumanML3D/*
